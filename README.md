@@ -23,4 +23,4 @@ It is a search engine on the Wikipedia Data Dump without using any external inde
 This function takes as input the corpus file and creates the entire index in the index folder and all the titles are stores in the title folder. Size of index is almost 1/4 the size of corpus.
 
 #### python3 wiki_search.py <location(queries.txt)>
-this function returns the first 10 matched document titles along with their ID's are stores in output.txt for the indivisual queries.
+This function returns the first 10 matched document titles along with their ID's are stores in output.txt for the indivisual queries.
